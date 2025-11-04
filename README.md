@@ -1,1 +1,0 @@
-# returnhub-autostrat
